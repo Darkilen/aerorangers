@@ -58,6 +58,9 @@ a.hover-color:hover, .blog-post-title a:hover, .news-post-cat a:hover {
 .padd-section {
   padding: 90px 0;
 }
+.padd-section#projet {
+  padding: 40px 0;
+}
 
 .onepage-home {
   padding-top: 60px;
