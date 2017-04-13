@@ -48,7 +48,7 @@ a.hover-color, .blog-post-title a:hover, .news-post-cat a:hover {
   transition: all 0.3s ease-in;
 }
 a.hover-color:hover, .blog-post-title a:hover, .news-post-cat a:hover {
-  color: #5992B0 !important;
+  color: #B03B32 !important;
   -moz-transition: all 0.3s ease-in;
   -o-transition: all 0.3s ease-in;
   -webkit-transition: all 0.3s ease-in;
@@ -96,13 +96,13 @@ label {
 ::-moz-selection {
   color: #fff;
   text-shadow: none;
-  background-color: #5992B0;
+  background-color: #B03B32;
 }
 
 ::selection {
   color: #fff;
   text-shadow: none;
-  background-color: #5992B0;
+  background-color: #B03B32;
 }
 
 p, blockquote {
@@ -351,7 +351,7 @@ div#preloader {
   font-size: 30px;
   background: transparent;
   font-weight: bold;
-  color: #5992B0;
+  color: #B03B32;
   text-decoration: none;
   position: fixed;
   bottom: 10px;
@@ -474,18 +474,18 @@ div#preloader {
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
-  color: #5992B0;
+  color: #B03B32;
   background-color: #fff;
 }
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
   background-color: #fff;
-  color: #5992B0;
+  color: #B03B32;
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #5992B0;
+  color: #B03B32;
   background-color: transparent;
 }
 .navbar-default .navbar-nav > li > a {
@@ -533,20 +533,20 @@ div#preloader {
   text-transform: uppercase;
 }
 .navbar-inverse .navbar-nav > li > a:hover {
-  color: #5992B0;
+  color: #B03B32;
   background-color: transparent;
 }
 .navbar-inverse .navbar-nav > li > a
 .navbar-nav > .active > a,
 .navbar-inverse .navbar-nav > .active > a:hover,
 .navbar-inverse .navbar-nav > .active > a:focus {
-  color: #5992B0;
+  color: #B03B32;
   background-color: transparent;
 }
 .navbar-inverse .navbar-nav > .open > a,
 .navbar-inverse .navbar-nav > .open > a:hover,
 .navbar-inverse .navbar-nav > .open > a:focus {
-  color: #5992B0;
+  color: #B03B32;
   background-color: transparent;
 }
 .navbar-inverse .navbar-nav > li.social-nav i {
@@ -599,7 +599,7 @@ div#preloader {
 
 .cart-li a {
   font-weight: 700;
-  color: #5992B0 !important;
+  color: #B03B32 !important;
 }
 .cart-li a:focus, .cart-li a:hover {
   text-decoration: none;
@@ -618,7 +618,7 @@ div#preloader {
   -moz-border-radius: 0px;
   -ms-border-radius: 0px;
   border-radius: 0px;
-  border-top: 2px solid #5992B0 !important;
+  border-top: 2px solid #B03B32 !important;
 }
 .navbar .dropdown-menu li a {
   color: #888;
@@ -634,7 +634,7 @@ div#preloader {
   transition: all 0.3s ease-in;
 }
 .navbar .dropdown-menu li a:hover {
-  background: #5992B0;
+  background: #B03B32;
   color: #fff;
 }
 
@@ -718,10 +718,10 @@ div#preloader {
   background-color: #444;
 }
 .top-bar .cart-dropdown li.cart-footer a.btn-first:hover {
-  background-color: #5992B0;
+  background-color: #B03B32;
 }
 .top-bar .cart-dropdown li.cart-footer a.btn-last {
-  background-color: #5992B0;
+  background-color: #B03B32;
 }
 .top-bar .cart-dropdown li.cart-footer a.btn-last:hover {
   background-color: #444;
@@ -888,7 +888,7 @@ MULTI LEVEL DROPDOWN CSS
 
 .main-flex-slider .flex-control-paging li a.flex-active {
   background: transparent !important;
-  border: 2px solid #5992B0;
+  border: 2px solid #B03B32;
 }
 
 .portfolio-details .flex-control-paging li a {
@@ -904,7 +904,7 @@ MULTI LEVEL DROPDOWN CSS
 
 .portfolio-details .flex-control-paging li a.flex-active {
   background: transparent !important;
-  border: 2px solid #5992B0;
+  border: 2px solid #B03B32;
 }
 
 .slider-overlay,
@@ -1005,7 +1005,7 @@ MULTI LEVEL DROPDOWN CSS
   border-color: #333;
 }
 #footer.shop-footer .footer-col .social-btn li a i:hover {
-  border-color: #5992B0;
+  border-color: #B03B32;
   color: #fff;
 }
 #footer.shop-footer .footer-col .post-list li a {
@@ -1022,7 +1022,7 @@ MULTI LEVEL DROPDOWN CSS
   letter-spacing: 2px;
 }
 .footer-col h3:first-letter {
-  border-bottom: 5px solid #5992B0;
+  border-bottom: 5px solid #B03B32;
 }
 .footer-col p {
   font-size: 14px;
@@ -1052,8 +1052,8 @@ MULTI LEVEL DROPDOWN CSS
   border: 2px solid #fff;
 }
 .footer-col .social-btn li a i:hover {
-  background-color: #5992B0;
-  border-color: #5992B0;
+  background-color: #B03B32;
+  border-color: #B03B32;
 }
 .footer-col img {
   width: 60%;
@@ -1080,7 +1080,7 @@ MULTI LEVEL DROPDOWN CSS
 /**************footer option ********************/
 #footer-option {
   background: #121214;
-  border-top: 8px solid #5992B0;
+  border-top: 8px solid #B03B32;
   margin-top: 50px;
   padding: 80px 0 0;
   position: relative;
@@ -1138,7 +1138,7 @@ MULTI LEVEL DROPDOWN CSS
   font-size: 0.9em;
 }
 .footer-nav li a:hover {
-  color: #5992B0;
+  color: #B03B32;
 }
 
 @media (max-width: 768px) {
@@ -1222,14 +1222,14 @@ MULTI LEVEL DROPDOWN CSS
 }
 
 .tabs .nav-tabs li.active a {
-  color: #5992B0;
+  color: #B03B32;
   border-left-color: #eee;
   border-right-color: #eee;
   background: #fff;
 }
 
 .tabs .nav-tabs li.active a:after {
-  background: #5992B0;
+  background: #B03B32;
 }
 
 .tabs .nav-tabs li.active a:before {
@@ -1332,8 +1332,8 @@ MULTI LEVEL DROPDOWN CSS
 
 /*theme color button*/
 .theme-btn-color {
-  background-color: #5992B0;
-  border-color: #5992B0;
+  background-color: #B03B32;
+  border-color: #B03B32;
   color: #fff;
 }
 .theme-btn-color:hover {
@@ -1367,7 +1367,7 @@ MULTI LEVEL DROPDOWN CSS
   margin-bottom: 15px;
 }
 .sidebar-box h4:first-letter {
-  border-bottom: 5px solid #5992B0;
+  border-bottom: 5px solid #B03B32;
 }
 .sidebar-box .social-btn li a i {
   background-color: #000;
@@ -1495,7 +1495,7 @@ MULTI LEVEL DROPDOWN CSS
 
 .pricing-rate {
   padding: 30px 10px;
-  background-color: #5992B0;
+  background-color: #B03B32;
   text-align: center;
 }
 .pricing-rate h1 {
@@ -1625,7 +1625,7 @@ MULTI LEVEL DROPDOWN CSS
   margin-bottom: 30px;
 }
 .blog-post-detail a {
-  color: #5992B0;
+  color: #B03B32;
 }
 
 .blog-post-more {
@@ -1637,7 +1637,7 @@ MULTI LEVEL DROPDOWN CSS
 }
 
 .mas-link {
-  color: #5992B0;
+  color: #B03B32;
   display: inline-block;
   margin-bottom: 10px;
   text-transform: uppercase;
@@ -1719,9 +1719,9 @@ h4.portfolio-post-title {
   margin-bottom: 5px;
 }
 .portfolio-filters li.active {
-  background-color: #5992B0;
+  background-color: #B03B32;
   color: #fff;
-  border-color: #5992B0;
+  border-color: #B03B32;
 }
 
 #grid .mix {
@@ -1778,7 +1778,7 @@ h4.portfolio-post-title {
   height: 40px;
   line-height: 40px;
   color: #fff;
-  background-color: #5992B0;
+  background-color: #B03B32;
   text-align: left;
   font-size: 12px;
   margin-bottom: 1px;
@@ -1824,7 +1824,7 @@ h4.portfolio-post-title {
   color: #333;
 }
 .product-desc h3 a:hover {
-  color: #5992B0;
+  color: #B03B32;
 }
 .product-desc p {
   margin: 0px;
@@ -1842,7 +1842,7 @@ h4.portfolio-post-title {
 }
 .product-detail .price {
   font-size: 20px;
-  color: #5992B0;
+  color: #B03B32;
   display: block;
   margin-bottom: 20px;
   font-weight: 300;
@@ -1886,8 +1886,8 @@ h4.portfolio-post-title {
   box-shadow: none;
 }
 .product-detail form.cart .button:hover {
-  background-color: #5992B0;
-  border-color: #5992B0;
+  background-color: #B03B32;
+  border-color: #B03B32;
 }
 
 .cart-socials ul li {
@@ -1903,7 +1903,7 @@ h4.portfolio-post-title {
   display: block;
 }
 .cart-socials ul li a:hover {
-  color: #5992B0;
+  color: #B03B32;
 }
 
 .item-info-tabs {
@@ -1920,10 +1920,10 @@ h4.portfolio-post-title {
   border-bottom: 1px solid transparent;
 }
 .item-info-tabs > li > a:hover {
-  color: #5992B0;
+  color: #B03B32;
 }
 .item-info-tabs > li.active a {
-  color: #5992B0;
+  color: #B03B32;
 }
 
 .product-extra-info {
@@ -1940,7 +1940,7 @@ h4.portfolio-post-title {
   color: #aaa;
 }
 .product-extra-info > li > a:hover {
-  color: #5992B0;
+  color: #B03B32;
 }
 .product-extra-info span {
   color: #000;
@@ -1977,7 +1977,7 @@ h4.portfolio-post-title {
   margin-bottom: 0px;
 }
 .reviews .time-review {
-  color: #5992B0;
+  color: #B03B32;
   display: block;
 }
 .reviews .rating {
@@ -2010,7 +2010,7 @@ h4.portfolio-post-title {
   color: #999;
 }
 .shopping-cart-table.table .product-remove:hover {
-  color: #5992B0;
+  color: #B03B32;
 }
 .shopping-cart-table.table .td-name {
   text-align: left;
@@ -2021,7 +2021,7 @@ h4.portfolio-post-title {
   font-size: 13px;
 }
 .shopping-cart-table.table .td-name a:hover {
-  color: #5992B0;
+  color: #B03B32;
 }
 .shopping-cart-table.table .td-qty input {
   margin: 0;
@@ -2040,7 +2040,7 @@ h4.portfolio-post-title {
   text-decoration: none;
 }
 .shopping-cart-table.table a.edit:hover {
-  color: #5992B0;
+  color: #B03B32;
 }
 .shopping-cart-table.table .td-price {
   padding-left: 20px;
@@ -2135,7 +2135,7 @@ h4.portfolio-post-title {
 }
 
 .total-values {
-  color: #5992B0 !important;
+  color: #B03B32 !important;
   font-size: 20px;
 }
 
@@ -2145,7 +2145,7 @@ h4.portfolio-post-title {
   color: #aaa;
 }
 .checkout-top p a {
-  color: #5992B0;
+  color: #B03B32;
   display: inline-block;
   margin-left: 4px;
 }
@@ -2178,7 +2178,7 @@ label.error:before, label.error:after {
   font-size: 13px;
 }
 .create-account:hover {
-  color: #5992B0;
+  color: #B03B32;
 }
 
 .checkout-form .shipping-method label {
@@ -2258,7 +2258,7 @@ h3.subtitle {
   border: 1px solid #eee;
 }
 .services-box i {
-  color: #5992B0;
+  color: #B03B32;
   font-size: 44px;
   margin-bottom: 15px;
   display: inline-block;
@@ -2270,7 +2270,7 @@ h3.subtitle {
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
   border-radius: 50%;
-  border: 1px solid #5992B0;
+  border: 1px solid #B03B32;
   -moz-transition: all 0.3s ease-in;
   -o-transition: all 0.3s ease-in;
   -webkit-transition: all 0.3s ease-in;
@@ -2279,13 +2279,13 @@ h3.subtitle {
 .services-box h1 {
   font-size: 18px;
   margin-bottom: 0px;
-  color: #5992B0;
+  color: #B03B32;
   font-weight: 400;
   text-transform: uppercase;
 }
 .services-box:hover i {
-  border-color: #5992B0;
-  background-color: #5992B0;
+  border-color: #B03B32;
+  background-color: #B03B32;
   color: #fff;
 }
 
@@ -2297,7 +2297,7 @@ h3.subtitle {
   height: 80px;
   font-size: 34px;
   text-align: center;
-  background-color: #5992B0;
+  background-color: #B03B32;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
@@ -2319,7 +2319,7 @@ h3.subtitle {
   width: 50px;
 }
 .services-boxv2 .servicev2-icon i {
-  color: #5992B0;
+  color: #B03B32;
   font-size: 30px;
 }
 .services-boxv2 .servicev2-text {
@@ -2373,7 +2373,7 @@ h3.subtitle {
 .page-tree-bg2 {
   background-image: url("../img/bread-bg.png");
   background-position: center 688px;
-  background-color: #5992B0;
+  background-color: #B03B32;
   padding: 40px 0;
   width: 100%;
   position: relative;
@@ -2396,16 +2396,16 @@ h3.page-tree-text {
 
 /***********************bootstrap pagination override***************************/
 .pagination li.active a, .pagination li.active a:hover {
-  background-color: #5992B0;
-  border-color: #5992B0;
+  background-color: #B03B32;
+  border-color: #B03B32;
 }
 .pagination li a {
   color: #999;
 }
 .pagination li a:hover, .pagination li a:focus {
   color: #fff;
-  background-color: #5992B0;
-  border-color: #5992B0;
+  background-color: #B03B32;
+  border-color: #B03B32;
 }
 .pagination li a:hover.current, .pagination li a:focus.current {
   color: #fff;
@@ -2426,7 +2426,7 @@ h3.page-tree-text {
 }
 
 .icon-list li i {
-  color: #5992B0;
+  color: #B03B32;
   margin-right: 10px;
 }
 
@@ -2469,7 +2469,7 @@ h3.page-tree-text {
 }
 
 .hire-sec .services-icon i {
-  background-color: #5992B0;
+  background-color: #B03B32;
   color: #fff;
   margin-bottom: 20px;
 }
@@ -2491,7 +2491,7 @@ h3.page-tree-text {
 
 .process-box i {
   font-size: 54px;
-  color: #5992B0;
+  color: #B03B32;
   margin-bottom: 20px;
 }
 
@@ -2518,7 +2518,7 @@ h3.heading-progress {
 
 .progress-bar {
   line-height: 10px;
-  background: #5992B0;
+  background: #B03B32;
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
   -ms-box-shadow: none;
@@ -2532,7 +2532,7 @@ h3.heading-progress {
 }
 
 .form-btm-link a {
-  color: #5992B0;
+  color: #B03B32;
 }
 
 .form-btm-link a:hover {
@@ -2834,7 +2834,7 @@ a.carousel-control i {
     -moz-box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.16);
     -ms-box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.16);
     box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.16);
-    border-top: 4px solid #5992B0;
+    border-top: 4px solid #B03B32;
   }
 
   body.boxed {
@@ -2880,7 +2880,7 @@ a.carousel-control i {
 
 .cta-bg {
   padding: 50px 0;
-  background-color: #5992B0;
+  background-color: #B03B32;
 }
 
 .cta-bg h3 {
