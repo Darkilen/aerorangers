@@ -980,7 +980,7 @@ MULTI LEVEL DROPDOWN CSS
 
 /**********************************************footer*****************************************/
 #footer {
-  background-color: #000;
+  background-color: #555;
   padding: 60px 0;
 }
 #footer.shop-footer {
@@ -1055,7 +1055,9 @@ MULTI LEVEL DROPDOWN CSS
   background-color: #5992B0;
   border-color: #5992B0;
 }
-
+.footer-col img {
+  width: 60%;
+}
 .post-list li a {
   color: #b3b3b3;
   font-weight: 500;
